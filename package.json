@@ -1,5 +1,5 @@
 {
-  "name": "@glowingblue/prettier-config",
+  "name": "@glowingblue-dev/prettier-config",
   "version": "1.0.0",
   "description": "Glowing Blue's configuration for the Prettier code formatter (for Flarum Projects).",
   "main": "prettierrc.json",

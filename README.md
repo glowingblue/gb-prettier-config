@@ -7,10 +7,10 @@ For more info about shared Prettier configurations,
 
 ## Usage
 
-1. Install `@glowingblue/prettier-config` as a dev dependency:
+1. Install `@glowingblue-dev/prettier-config` as a dev dependency:
 
 ```
-yarn add -D @glowingblue/prettier-config
+yarn add -D @glowingblue-dev/prettier-config
 ```
 
 1. Add the `prettier` key to your `package.json`:
@@ -20,7 +20,7 @@ yarn add -D @glowingblue/prettier-config
 {
 	"name": "my-cool-package",
 	"version": "1.0.0",
-	"prettier": "@glowingblue/prettier-config"
+	"prettier": "@glowingblue-dev/prettier-config"
 	// ...
 }
 ```
