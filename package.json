@@ -1,0 +1,27 @@
+{
+  "name": "@glowingblue/prettier-config",
+  "version": "1.0.0",
+  "description": "Glowing Blue's configuration for the Prettier code formatter (for Flarum Projects).",
+  "main": "prettierrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glowingblue/prettier-config.git"
+  },
+  "keywords": [
+    "glowingblue",
+    "prettier",
+    "flarum"
+  ],
+  "author": "Glowing Blue AG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glowingblue/prettier-config/issues"
+  },
+  "homepage": "https://github.com/glowingblue/prettier-config#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
